@@ -1,6 +1,7 @@
 .codeMirror{
    height: 340px !important;
    color: #000;
+   font-size: 16px;
 }
 
 .codeMirror-gutters{
